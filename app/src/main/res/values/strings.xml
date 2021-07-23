@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HarajTask</string>
+    <string name="post_image">Post Image</string>
+    <string name="location_icon">location icon</string>
+    <string name="user_icon">user icon</string>
+    <string name="comment_count_icon">comment count icon</string>
+    <string name="share">Share</string>
 </resources>
